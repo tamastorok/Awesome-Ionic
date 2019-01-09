@@ -109,6 +109,8 @@ Tutorials
 * [How to Manipulate Data in Ionic 2: Part 1](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/) ![](ionic.png)
 * [How to Manipulate Data in Ionic 2: Part 2](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/) ![](ionic.png)
 * [Filtering, Mapping, and Reducing Arrays in Ionic 2](https://www.youtube.com/watch?v=A-4CLa05tp0) ![](ionic.png)
+* [Serverless Mobile App Development with Ionic and Firebase] (https://codingsans.com/blog/serverless-mobile-app-development-ionic-firebase)![](ionic.png)
+* [How to Build an Ionic 2 App with Native Plugin Integrations] (https://codingsans.com/blog/ionic-2-app-with-native-plugin-integrations)![](ionic.png)
 
 #### Theming
 * [A Guide to Styling an Ionic 2 Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/) ![](ionic.png)
